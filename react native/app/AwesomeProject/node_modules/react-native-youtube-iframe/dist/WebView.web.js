@@ -1,0 +1,1 @@
+Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"WebView",{enumerable:true,get:function get(){return _reactNativeWebWebview.WebView;}});var _reactNativeWebWebview=require("react-native-web-webview");
